@@ -8,6 +8,9 @@ export default {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        biorhyme: ["BioRhyme Expanded", "serif"],
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
